@@ -1,3 +1,7 @@
+Taylor_Brock_CFHT_2023_Poster.pdf was presented at ADASS 2023 in Tucson Arizona.
+
+
+
 Abstract:
 Used a Convolutional Neural Network to detect clouds on Mauna Kea using Canada France Hawaii Telescope’s (CFHT) All Sky Infrared and Visible Analyzer (ASIVA). Two models were constructed: a full-sky image classifier, and a heatmap generator using different size pixel kernels. The full-sky classifier was able to determine clear skies with 100% accuracy (0% false positive rate) and cloudy skies with 96% accuracy (4% false negative rate). The heatmap
 generator model used a convolutional neural network on a small kernel
