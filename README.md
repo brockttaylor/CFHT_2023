@@ -16,3 +16,6 @@ Atmospheric visibility is a major factor in the quality of data produced by grou
 
 Source code at: 
 https://github.com/ijustdontgitit/asiva_clouds
+heatmap2.ipynb is the latest iteration of the ASIVA heatmap without skyprobe itegration.
+Skyprobe_Heatmap.ipynb is the latest program that uses a regression model instead of a binary classification model to approximate SkyProbe attenuation values based off of ASIVA images.
+Abstract for this was submitted to SPIE for review.
